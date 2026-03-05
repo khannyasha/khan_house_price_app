@@ -197,4 +197,3 @@ This project was designed as a teaching demonstration for students learning Data
 
 ---
 
-**Since your notes mentioned it, would you like me to go ahead and generate that "System Architecture" diagram and description to add to this README?**
